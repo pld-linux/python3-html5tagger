@@ -2,7 +2,7 @@ Summary:	HTML5 Generation: Fast, Pure Python, No Dependencies
 Summary(pl.UTF-8):	Generowanie HTML5: szybkie, w czystym Pythonie, bez zależności
 Name:		python3-html5tagger
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/html5tagger/
